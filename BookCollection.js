@@ -106,3 +106,8 @@ $('#create-new-book').onclick(() => {
 }
 
 DOMManager.getAllBooks();
+
+/*Unfortunately this is as far as I'm able to go on this assignment. I was attempting to simulate the videos for this week's lesson, but I couldn't get any of the buttons to work. Also, I don't feel like I have enough
+working knowledge of MockAPI or anything similar to it. I've tried to make the MockAPI app work but it just isn't. Quite honestly, I feel like we need more than just a week of 2 videos and a single lesson to understand what's going on here.
+With that being said, I will just submit what I have here and accept whatever grade is given. 
+ */
